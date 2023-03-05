@@ -1,0 +1,17 @@
+html{
+  border: 0;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+}
+
+.select {
+  list-style: none;
+}
+
+.select_itens_top{
+  background-color: #1b8e99;
+}
+.select_itens_below{
+  background-color: #660000;
+}
